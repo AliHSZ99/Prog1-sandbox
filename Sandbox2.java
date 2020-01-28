@@ -22,12 +22,12 @@ public class Sandbox {
         // Prints "Hello, World" to the terminal window.
         System.out.println("\nHello World, this is my sandbox program"); // this is a block comment
 
-        final double PI = 3.14159
+        final double PI = 3.14159;
 
-        double radius = 3.5
+        double radius = 3.5;
         double area;
 
-        area = PI * radius * radius
+        area = PI * radius * radius;
 
         System.out.println("\nThe area of the circle is " + area);
 
